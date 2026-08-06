@@ -15,3 +15,7 @@ The case for the Radio Tuner was very simple. I didn't bother using ai03, instea
 
 ![An image of the Radio Tuner, front](Assets/HP9.png)
 ![An image of the Radio Tuner, top-right](Assets/HP10.png)
+
+# Firmware
+
+The firmware was coded using blood, tears, and lots of online tutorials ToT since I don't have any experience nor have I yet received funding, I cannot personally offer any instructions on flashing firmware. 
