@@ -8,3 +8,10 @@ The Radio Tuner was the first time I had ever created a PCB! To to the constrain
 ![An image of the 3D render of my PCB](Assets/HP6.png)
 ![An image of the PCB design of the Radio Tuner](Assets/HP7.png)
 ![An image of the PCB schematic of the Radio Tuner](Assets/HP8.png)
+
+# CAD
+
+The case for the Radio Tuner was very simple. I didn't bother using ai03, instead I just took measurements from KiCad. I made a case and a face. The case has a slot for the USB on the XIAO RP2040, and the face has holes for the keys, the OLED, and the encoder. The face also has engraved text, displaying the Radio Tuner's name and the function of each of the two buttons. 
+
+![An image of the Radio Tuner, front](Assets/HP9.png)
+![An image of the Radio Tuner, top-right](Assets/HP10.png)
